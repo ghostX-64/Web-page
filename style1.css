@@ -4,7 +4,7 @@
 }
 
 .main{
-    background-image: url(../sunset1.jpg);
+    background-image: url(./sunset1.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
