@@ -4,7 +4,7 @@
 }
 
 .main{
-    background-image: url(./sunset1.jpg);
+    background-image: url('https://github.com/ghostX-64/Web-page/blob/master/sunset1.jpg?raw=true');
     background-position: center;
     background-size: cover;
     height: 100vh;
